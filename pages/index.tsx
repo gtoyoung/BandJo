@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to 지니!</h1>
+        <h1 className={styles.title}>Welcome to 지니 Jo!</h1>
 
         <div className={styles.grid}>Contents</div>
       </main>
